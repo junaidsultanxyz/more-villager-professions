@@ -7,7 +7,7 @@ A Fabric mod that adds more villager professions for vanilla items.
 
 | Profession     | Workstation Block | Primary Goods / Trades                                     |
 |:---------------|:------------------|:-----------------------------------------------------------|
-| **Lumberjack** | Stripped Oak Wood | All log types and stems                                    |
+| **Lumberjack** | Stripped Oak Log  | All log types and stems                                    |
 | **Beekeeper**  | Honeycomb Block   | Honey bottles, campfires, beehives, bee nests              |
 | **Botanist**   | Dried Kelp Block  | Flowers, vines, dripleaf, spore blossoms, rare flora       |
 | **Engineer**   | Crafter           | Redstone components, hoppers, pistons, observers, crafters |
@@ -32,9 +32,7 @@ A Fabric mod that adds more villager professions for vanilla items.
 
 ### Dedicated Server
 1. Drop the `.jar` and **Fabric API** into the server's `mods/` directory.
-2. Provide the companion resource pack in `server.properties` via `resource-pack=` to allow vanilla clients to see custom villager outfits without installing client mods.
-3. All the logic works server side. Players don't need to install the mod on their device. However, when villager takes new job, the textures will glitch. That's why having the texture pack is important.
-4. Texture pack file is in root of this repository. It is the zip file.
+2. Restart the server.
 
 ---
 
