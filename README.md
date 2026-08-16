@@ -34,6 +34,7 @@ A Fabric mod that adds more villager professions for vanilla items.
 1. Drop the `.jar` and **Fabric API** into the server's `mods/` directory.
 2. Provide the companion resource pack in `server.properties` via `resource-pack=` to allow vanilla clients to see custom villager outfits without installing client mods.
 3. All the logic works server side. Players don't need to install the mod on their device. However, when villager takes new job, the textures will glitch. That's why having the texture pack is important.
+4. Texture pack file is in root of this repository. It is the zip file.
 
 ---
 
