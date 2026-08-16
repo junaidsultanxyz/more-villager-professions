@@ -17,20 +17,20 @@ A Fabric mod that adds more villager professions for vanilla items.
 
 ## Features
 * **4 New Professions:** Fully integrated into vanilla village AI and mechanics.
-* **Vanilla Client Friendly:** Can run entirely server-side with vanilla clients when using a server resource pack.
 * **Balanced Progression:** Structured trade tiers designed to fit seamlessly alongside vanilla economics.
 * **Custom Textures:** Overlay textures for all professions.
 
 ---
 
 ## Installation
+This mod is required on both **Client and Server**.
 
-### Client (Singleplayer)
+### Client
 1. Install **Fabric Loader** for Minecraft **26.2** (or your target version).
 2. Install **Fabric API**.
 3. Place `MoreVillagerProfessions-Vanilla-1.0.0.jar` into your `.minecraft/mods` folder.
 
-### Dedicated Server
+### Server
 1. Drop the `.jar` and **Fabric API** into the server's `mods/` directory.
 2. Restart the server.
 
