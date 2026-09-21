@@ -7,7 +7,7 @@ A Fabric mod that adds more villager professions for vanilla items.
 
 | Profession     | Workstation Block | Primary Goods / Trades                                     |
 |:---------------|:------------------|:-----------------------------------------------------------|
-| **Lumberjack** | Stripped Oak Log  | All log types and stems                                    |
+| **Lumberjack** | Stripped Spruce Log  | All log types and stems                                    |
 | **Beekeeper**  | Honeycomb Block   | Honey bottles, campfires, beehives, bee nests              |
 | **Botanist**   | Dried Kelp Block  | Flowers, vines, dripleaf, spore blossoms, rare flora       |
 | **Engineer**   | Crafter           | Redstone components, hoppers, pistons, observers, crafters |
